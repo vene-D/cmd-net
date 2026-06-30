@@ -6,7 +6,7 @@ Repositori ini berisi dokumentasi pribadi, kumpulan perintah CLI, dan panduan tr
 
 *   **[ZTE OLT]** - 
 *   **[Mikrotik]** - 
-*   **[Huawei]** - 
+*   **[Huawei]** - ##
 
 ## 🚀 Lab & Real-Case Scenario
 Catatan di repo ini ditulis berdasarkan implementasi riil di lapangan (bukan sekadar teori text-book).
